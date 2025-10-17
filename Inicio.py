@@ -12,7 +12,7 @@ import time
 # --- Configuración inicial ---
 st.set_page_config(page_title="Demo TF-IDF en Español", page_icon="🔍", layout="wide")
 
-st.title("🔍 Demo TF-IDF en Español (Versión Mejorada)")
+st.title("🔍 Demo TF-IDF en Español")
 
 # Descargar stopwords de NLTK
 nltk.download('stopwords')
