@@ -12,5 +12,9 @@ numpy>=1.24.0
 nltk>=3.8.1
 
 
-
+streamlit
+scikit-learn
+pandas
+nltk
+plotly
 
